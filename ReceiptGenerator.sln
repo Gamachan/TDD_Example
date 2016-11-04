@@ -1,0 +1,92 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptGenerator.TDD", "ReceiptGenerator.TDD\ReceiptGenerator.TDD.csproj", "{0D59FBEA-93AA-4DEF-8532-83672AED3005}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptGenerator.Contracts", "ReceiptGenerator.Contracts\ReceiptGenerator.Contracts.csproj", "{0C820AB4-4309-4842-8395-5D56B1844E3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptGenerator.BusinessLogic", "ReceiptGenerator.BusinessLogic\ReceiptGenerator.BusinessLogic.csproj", "{6AAD46DA-603D-4CE6-8C86-F055A9883D33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptGenerator.Models", "ReceiptGenerator.Models\ReceiptGenerator.Models.csproj", "{9C8A54B7-9A13-4BB5-BBCB-DF9241595D71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptGenerator.Utilities", "ReceiptGenerator.Utilities\ReceiptGenerator.Utilities.csproj", "{E53508D3-8974-4F6B-8D7D-39862943E6AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resources", "Resources", "{1BFBA548-3280-44ED-ABD5-C4B35D61BB9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Inputs", "Inputs", "{6619425C-B501-4060-9935-D5482FC1E59D}"
+	ProjectSection(SolutionItems) = preProject
+		Resources\Inputs\Input_1.txt = Resources\Inputs\Input_1.txt
+		Resources\Inputs\Input_2.txt = Resources\Inputs\Input_2.txt
+		Resources\Inputs\Input_3.txt = Resources\Inputs\Input_3.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Categories", "Categories", "{13C48198-9F65-431C-AC2E-BF805C246A3B}"
+	ProjectSection(SolutionItems) = preProject
+		Resources\Categories\ExemptedCategoryList.txt = Resources\Categories\ExemptedCategoryList.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Outputs", "Outputs", "{8389CCCE-419D-48FE-8058-9F1521E6B718}"
+	ProjectSection(SolutionItems) = preProject
+		Resources\Outputs\Output_1.txt = Resources\Outputs\Output_1.txt
+		Resources\Outputs\Output_2.txt = Resources\Outputs\Output_2.txt
+		Resources\Outputs\Output_3.txt = Resources\Outputs\Output_3.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalogs", "Catalogs", "{2211874B-A997-4FC5-9B86-4253220FB5FE}"
+	ProjectSection(SolutionItems) = preProject
+		Resources\Categories\Catalogs\Books.txt = Resources\Categories\Catalogs\Books.txt
+		Resources\Categories\Catalogs\Food.txt = Resources\Categories\Catalogs\Food.txt
+		Resources\Categories\Catalogs\Medical.txt = Resources\Categories\Catalogs\Medical.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptGenerator.ConsoleApplication", "ReceiptGenerator.ConsoleApplication\ReceiptGenerator.ConsoleApplication.csproj", "{9498ACBF-241C-4A7C-86FF-EDB51F45C39D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptGenerator.BusinessLogic.Tests", "ReceiptGenerator.BusinessLogic.Tests\ReceiptGenerator.BusinessLogic.Tests.csproj", "{FE58AC33-2377-4CF9-8FEA-8CA803BFE80C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D59FBEA-93AA-4DEF-8532-83672AED3005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D59FBEA-93AA-4DEF-8532-83672AED3005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D59FBEA-93AA-4DEF-8532-83672AED3005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D59FBEA-93AA-4DEF-8532-83672AED3005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C820AB4-4309-4842-8395-5D56B1844E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C820AB4-4309-4842-8395-5D56B1844E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C820AB4-4309-4842-8395-5D56B1844E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C820AB4-4309-4842-8395-5D56B1844E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AAD46DA-603D-4CE6-8C86-F055A9883D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AAD46DA-603D-4CE6-8C86-F055A9883D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AAD46DA-603D-4CE6-8C86-F055A9883D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AAD46DA-603D-4CE6-8C86-F055A9883D33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C8A54B7-9A13-4BB5-BBCB-DF9241595D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8A54B7-9A13-4BB5-BBCB-DF9241595D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8A54B7-9A13-4BB5-BBCB-DF9241595D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8A54B7-9A13-4BB5-BBCB-DF9241595D71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E53508D3-8974-4F6B-8D7D-39862943E6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E53508D3-8974-4F6B-8D7D-39862943E6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E53508D3-8974-4F6B-8D7D-39862943E6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E53508D3-8974-4F6B-8D7D-39862943E6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9498ACBF-241C-4A7C-86FF-EDB51F45C39D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9498ACBF-241C-4A7C-86FF-EDB51F45C39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9498ACBF-241C-4A7C-86FF-EDB51F45C39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9498ACBF-241C-4A7C-86FF-EDB51F45C39D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE58AC33-2377-4CF9-8FEA-8CA803BFE80C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE58AC33-2377-4CF9-8FEA-8CA803BFE80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE58AC33-2377-4CF9-8FEA-8CA803BFE80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE58AC33-2377-4CF9-8FEA-8CA803BFE80C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6619425C-B501-4060-9935-D5482FC1E59D} = {1BFBA548-3280-44ED-ABD5-C4B35D61BB9C}
+		{13C48198-9F65-431C-AC2E-BF805C246A3B} = {1BFBA548-3280-44ED-ABD5-C4B35D61BB9C}
+		{8389CCCE-419D-48FE-8058-9F1521E6B718} = {1BFBA548-3280-44ED-ABD5-C4B35D61BB9C}
+		{2211874B-A997-4FC5-9B86-4253220FB5FE} = {13C48198-9F65-431C-AC2E-BF805C246A3B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\Natali\Documents\Visual Studio 2015\Projects\ReceiptGenerator\UnitTests\ReceiptGenerator.BusinessLogic.Tests\bin\Debug\ReceiptGenerator.BusinessLogic.Tests.dll
+C:\Users\Natali\Documents\Visual Studio 2015\Projects\ReceiptGenerator\UnitTests\ReceiptGenerator.BusinessLogic.Tests\bin\Debug\ReceiptGenerator.BusinessLogic.Tests.pdb
+C:\Users\Natali\Documents\Visual Studio 2015\Projects\ReceiptGenerator\UnitTests\ReceiptGenerator.BusinessLogic.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Natali\Documents\Visual Studio 2015\Projects\ReceiptGenerator\UnitTests\ReceiptGenerator.BusinessLogic.Tests\bin\Debug\ReceiptGenerator.BusinessLogic.dll
+C:\Users\Natali\Documents\Visual Studio 2015\Projects\ReceiptGenerator\UnitTests\ReceiptGenerator.BusinessLogic.Tests\bin\Debug\ReceiptGenerator.Contracts.dll
+C:\Users\Natali\Documents\Visual Studio 2015\Projects\ReceiptGenerator\UnitTests\ReceiptGenerator.BusinessLogic.Tests\bin\Debug\ReceiptGenerator.Models.dll
+C:\Users\Natali\Documents\Visual Studio 2015\Projects\ReceiptGenerator\UnitTests\ReceiptGenerator.BusinessLogic.Tests\bin\Debug\ReceiptGenerator.Utilities.dll
+C:\Users\Natali\Documents\Visual Studio 2015\Projects\ReceiptGenerator\UnitTests\ReceiptGenerator.BusinessLogic.Tests\bin\Debug\ReceiptGenerator.BusinessLogic.pdb
+C:\Users\Natali\Documents\Visual Studio 2015\Projects\ReceiptGenerator\UnitTests\ReceiptGenerator.BusinessLogic.Tests\bin\Debug\ReceiptGenerator.Contracts.pdb
+C:\Users\Natali\Documents\Visual Studio 2015\Projects\ReceiptGenerator\UnitTests\ReceiptGenerator.BusinessLogic.Tests\bin\Debug\ReceiptGenerator.Models.pdb
+C:\Users\Natali\Documents\Visual Studio 2015\Projects\ReceiptGenerator\UnitTests\ReceiptGenerator.BusinessLogic.Tests\bin\Debug\ReceiptGenerator.Utilities.pdb
+C:\Users\Natali\Documents\Visual Studio 2015\Projects\ReceiptGenerator\UnitTests\ReceiptGenerator.BusinessLogic.Tests\obj\Debug\ReceiptGenerator.BusinessLogic.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Natali\Documents\Visual Studio 2015\Projects\ReceiptGenerator\UnitTests\ReceiptGenerator.BusinessLogic.Tests\obj\Debug\ReceiptGenerator.BusinessLogic.Tests.dll
+C:\Users\Natali\Documents\Visual Studio 2015\Projects\ReceiptGenerator\UnitTests\ReceiptGenerator.BusinessLogic.Tests\obj\Debug\ReceiptGenerator.BusinessLogic.Tests.pdb
